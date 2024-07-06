@@ -6,10 +6,10 @@ This project is designed to automate the reservation process for tennis courts a
 
 ### Prerequisites
 
-	•	Login to Stanford's Club Locker System
- 	•	Python 3.6 or higher
-	•	Google Chrome browser
-	•	ChromeDriver (compatible with your version of Chrome)
+* Login to Stanford's Club Locker System
+* Python 3.6 or higher
+* Google Chrome browser
+* ChromeDriver (compatible with your version of Chrome)
 
 ## Installation
 ### Step 1: Clone the Repository
@@ -54,16 +54,16 @@ Just double click on the run_reserve.sh file 🪄
 
 ## Notes
 
-	•	The script prioritizes reservation slots after 6 PM (6:00 PM, 7:00 PM, 8:00 PM). If these slots are unavailable, it will attempt to reserve earlier slots.
-	•	Ensure your chromedriver path is correctly specified in reserve.py.
+* The script prioritizes reservation slots after 6 PM (6:00 PM, 7:00 PM, 8:00 PM). If these slots are unavailable, it will attempt to reserve earlier slots.
+* Ensure your chromedriver path is correctly specified in reserve.py.
 
 ### Troubleshooting
 
 If you encounter any issues, ensure that:
 
-	•	The auth.json file contains correct login credentials.
-	•	ChromeDriver is compatible with your installed version of Google Chrome.
-	•	The virtual environment is activated before running the script.
+* The auth.json file contains correct login credentials.
+* ChromeDriver is compatible with your installed version of Google Chrome.
+* The virtual environment is activated before running the script.
 
 Feel free to open an issue on the GitHub repository if you have any questions or run into problems.
 

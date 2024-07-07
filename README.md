@@ -22,8 +22,8 @@ cd tennis-court-reservation
 ### Step 2: Set Up Virtual Environment
 
 For macOS and Linux:
-python3 -m venv .env
 ```bash
+python3 -m venv .env
 source .env/bin/activate
 ```
 

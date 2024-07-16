@@ -1,5 +1,7 @@
 # Stanford West Campus Tennis Court Reservation Bot 🎾🤖
 
+![bot](https://github.com/ChristianCadisch/stanford-tennis-bot/blob/main/Image.jpg)
+
 ## Purpose
 
 This project is designed to automate the reservation process for tennis courts at Stanford’s West Campus. The bot logs into the Club Locker website, navigates to the reservations page, and selects the ideal time slots (prioritizing times after 6 PM). The script uses Selenium for web automation and can be customized to move a specified number of days ahead to make future reservations.
